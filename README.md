@@ -67,7 +67,7 @@ Given the imbalance, the models were evaluated primarily on **AUPRC (Area Under 
 ## 🚀 How to Use
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/your-username/credit-card-fraud.git](https://github.com/your-username/credit-card-fraud.git)
+   git clone [https://github.com/abhishekmohank/credit-card-fraud.git](https://github.com/abhishekmohank/Credit-Card-Fraud-Detection-using-Machine-Learning-Deep-Learning)
 
 
 ## Install Dependencies:
